@@ -1,0 +1,103 @@
+*{
+	background: #252440;
+}
+#titulo{
+	justify-content: space-around;
+	display: flex;
+	color: yellow;
+	border: solid 5px yellow;
+	background: #18061c;
+	border-radius: 40px;
+}
+
+#logo{
+	width: 200px;
+	height: 200px;
+	padding: 0;
+	margin: 0;
+}
+
+#titulo h1{
+	background: #18061c;
+	border-bottom: solid yellow 5px;
+}
+
+#titulo p{
+	background: #18061c;
+	font-size: 20px;
+}
+
+#titi{
+	background: #18061c;
+	padding-top: 50px;
+}
+
+#pass{
+	padding-top: 50px;
+	background: #18061c;
+}
+
+h2{
+	color: yellow;
+	text-align: center;
+	padding-right: 20px;
+}
+
+#luci{
+	width: 370px;
+	height: 150;
+	border: 2px solid yellow;
+	margin-top: 20px;
+}
+
+#odio{
+	border-radius: 15px;
+	background: #18061c;
+	color: yellow;
+	border: 2px solid yellow;
+	justify-content: center;
+	width: 370px;
+	padding: 9px;
+}
+
+#popo{
+	margin-left: 30px;
+}
+
+#hub{
+	display: flex;
+}
+
+#art{
+	width: 240px;
+	height: 380px;
+	border-radius: 20px;
+}
+
+#hold {
+	display: flex;
+	border: solid yellow 4px;
+	margin: 20px 30px 10px 30px;
+	border-radius: 30px;
+	padding: 25px;
+	background: #18061c;
+	margin-bottom: 1500px;
+}
+
+#intr{
+	color: yellow;
+	background: #18061c;
+	padding: 20px;
+
+}
+
+#intr h1{
+	background: #18061c;
+	border-bottom: solid yellow 2px;
+	padding-bottom: 13px;
+	margin-bottom: -12px;
+}
+
+#intr p{
+	background: #18061c;
+}
